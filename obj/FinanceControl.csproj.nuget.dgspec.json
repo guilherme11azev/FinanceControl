@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\FinanceControl\\FinanceControl.csproj": {}
+    "C:\\Project\\FinanceControl\\FinanceControl\\FinanceControl.csproj": {}
   },
   "projects": {
-    "C:\\Project\\FinanceControl\\FinanceControl.csproj": {
+    "C:\\Project\\FinanceControl\\FinanceControl\\FinanceControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\FinanceControl\\FinanceControl.csproj",
+        "projectUniqueName": "C:\\Project\\FinanceControl\\FinanceControl\\FinanceControl.csproj",
         "projectName": "FinanceControl",
-        "projectPath": "C:\\Project\\FinanceControl\\FinanceControl.csproj",
+        "projectPath": "C:\\Project\\FinanceControl\\FinanceControl\\FinanceControl.csproj",
         "packagesPath": "C:\\Users\\C004316\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\FinanceControl\\obj\\",
+        "outputPath": "C:\\Project\\FinanceControl\\FinanceControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\C004316\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTRvFBmcXaU=",
+  "dgSpecHash": "HL12y6ssvwc=",
   "success": true,
-  "projectFilePath": "C:\\Project\\FinanceControl\\FinanceControl.csproj",
+  "projectFilePath": "C:\\Project\\FinanceControl\\FinanceControl\\FinanceControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\C004316\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\C004316\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
